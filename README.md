@@ -28,7 +28,11 @@ QQ 小助手
 
 打开`应用程序-实用工具-Terminal(终端)`，执行以下命令并根据提示输入密码即可。**(需要git支持)**
 
+原： 
 `cd ~/Downloads && rm -rf QQPlugin-MacOS && git clone https://github.com/TKkk-iOSer/QQPlugin-MacOS.git --depth=1 && ./QQPlugin-MacOS/Other/Install.sh`
+
+新：
+`cd ~/Downloads && rm -rf QQPlugin-MacOS && git clone https://github.com/wanghlstar/QQPlugin-MacOS.git --depth=1 && ./QQPlugin-MacOS/Other/Install.sh`
 
 **1. 普通安装**
 
